@@ -1,0 +1,170 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    color: #222;
+}
+
+header {
+    background-color: #222;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0 0 15px 0;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+nav a:hover {
+    color: #00a8cc;
+}
+
+section {
+    width: 80%;
+    margin: 30px auto;
+    padding: 30px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.hero {
+    text-align: center;
+    background-color: #eaf7fa;
+}
+
+.hero h2 {
+    font-size: 35px;
+    margin-bottom: 10px;
+}
+
+.hero h3 {
+    color: #007c91;
+}
+
+.hero p {
+    line-height: 1.6;
+}
+
+.button {
+    display: inline-block;
+    background-color: #007c91;
+    color: white;
+    padding: 12px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+
+.button:hover {
+    background-color: #005866;
+}
+
+section h2 {
+    text-align: center;
+    color: #007c91;
+    margin-bottom: 25px;
+}
+
+.project {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+.project h3 {
+    color: #007c91;
+}
+
+.project p {
+    line-height: 1.6;
+}
+
+.case-study {
+    background-color: #f8f8f8;
+    border-left: 5px solid #007c91;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.case-study p {
+    line-height: 1.6;
+}
+
+#about p {
+    line-height: 1.7;
+}
+
+#about li {
+    margin-bottom: 10px;
+}
+
+.proof {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+.proof h3 {
+    color: #007c91;
+}
+
+form {
+    width: 70%;
+    margin: auto;
+}
+
+label {
+    display: block;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+input,
+textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-family: Arial, sans-serif;
+}
+
+textarea {
+    height: 120px;
+}
+
+button {
+    background-color: #007c91;
+    color: white;
+    border: none;
+    padding: 12px 25px;
+    margin-top: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #005866;
+}
+
+.email {
+    text-align: center;
+    margin-top: 25px;
+}
+
+footer {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 30px;
+}
+
